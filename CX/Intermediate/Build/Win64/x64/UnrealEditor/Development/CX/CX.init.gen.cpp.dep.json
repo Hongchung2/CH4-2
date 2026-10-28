@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\project\\unrealengine\\cx\\intermediate\\build\\win64\\unrealeditor\\inc\\cx\\uht\\cx.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\project\\unrealengine\\cx\\intermediate\\build\\win64\\x64\\cxeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\project\\unrealengine\\cx\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cx\\definitions.cx.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

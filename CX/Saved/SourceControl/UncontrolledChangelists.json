@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Project/UnrealEngine/CX/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Project/UnrealEngine/CX/Content/UI/UI_Chat.uasset",
+				"C:/Project/UnrealEngine/CX/Content/VehicleTemplate/Blueprints/W_VehicleAdvUI.uasset",
+				"C:/Project/UnrealEngine/CX/Content/Blueprint/BP_CXPlayerState.uasset",
+				"C:/Project/UnrealEngine/CX/Content/VehicleTemplate/Blueprints/BP_VehicleAdvGameMode.uasset",
+				"C:/Project/UnrealEngine/CX/Content/VehicleTemplate/Input/Actions/IA_Attack.uasset",
+				"C:/Project/UnrealEngine/CX/Content/VehicleTemplate/Blueprints/BP_VehicleAdvPlayerController.uasset",
+				"C:/Project/UnrealEngine/CX/Content/VehicleTemplate/Input/IMC_Default.uasset",
+				"C:/Project/UnrealEngine/CX/Content/VehicleTemplate/Blueprints/SportsCar/BP_SportsCar_Pawn.uasset",
+				"C:/Project/UnrealEngine/CX/Content/Item/BP_CoinItem.uasset",
+				"C:/Project/UnrealEngine/CX/Content/Item/BP_SpeedBuffItem.uasset",
+				"C:/Project/UnrealEngine/CX/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/B/KS/SDH4JTBJSXDPEY81GJ6BW8.uasset",
+				"C:/Project/UnrealEngine/CX/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/0/YL/NQTOW5S5HLUL40MMXSS4EP.uasset",
+				"C:/Project/UnrealEngine/CX/Content/VehicleTemplate/Input/Actions/IA_LandMine.uasset",
+				"C:/Project/UnrealEngine/CX/Content/Blueprint/BP_CXLandMine.uasset",
+				"C:/Project/UnrealEngine/CX/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/2/LV/KP84GYI1RWMBYOXXZB44CS.uasset",
+				"C:/Project/UnrealEngine/CX/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleAdvExampleMap/0/R8/A72J7REPRNY6HJNY2T6264.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\project\\unrealengine\\cx\\source\\cx\\gimmic\\cxlandmine.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\project\\unrealengine\\cx\\intermediate\\build\\win64\\x64\\cxeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\project\\unrealengine\\cx\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cx\\definitions.cx.h",
+            "c:\\project\\unrealengine\\cx\\source\\cx\\gimmic\\cxlandmine.h",
+            "c:\\project\\unrealengine\\cx\\intermediate\\build\\win64\\unrealeditor\\inc\\cx\\uht\\cxlandmine.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
