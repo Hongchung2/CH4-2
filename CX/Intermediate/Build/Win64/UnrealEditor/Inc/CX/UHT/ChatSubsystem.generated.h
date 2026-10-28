@@ -14,14 +14,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CX_ChatSubsystem_generated_h
 
-#define FID_Project_UnrealEngine_CX_Source_CX_Subsystem_ChatSubsystem_h_10_GENERATED_BODY \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Subsystem_ChatSubsystem_h_10_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FChatData_Statics; \
 	CX_API static class UScriptStruct* StaticStruct();
 
 
 template<> CX_API UScriptStruct* StaticStruct<struct FChatData>();
 
-#define FID_Project_UnrealEngine_CX_Source_CX_Subsystem_ChatSubsystem_h_29_INCLASS_NO_PURE_DECLS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Subsystem_ChatSubsystem_h_29_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUChatSubsystem(); \
 	friend struct Z_Construct_UClass_UChatSubsystem_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(UChatSubsystem)
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_Subsystem_ChatSubsystem_h_29_ENHANCED_CONSTRUCTORS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Subsystem_ChatSubsystem_h_29_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UChatSubsystem(); \
 private: \
@@ -44,12 +44,12 @@ public: \
 	NO_API virtual ~UChatSubsystem();
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_Subsystem_ChatSubsystem_h_26_PROLOG
-#define FID_Project_UnrealEngine_CX_Source_CX_Subsystem_ChatSubsystem_h_29_GENERATED_BODY \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Subsystem_ChatSubsystem_h_26_PROLOG
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Subsystem_ChatSubsystem_h_29_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Project_UnrealEngine_CX_Source_CX_Subsystem_ChatSubsystem_h_29_INCLASS_NO_PURE_DECLS \
-	FID_Project_UnrealEngine_CX_Source_CX_Subsystem_ChatSubsystem_h_29_ENHANCED_CONSTRUCTORS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Subsystem_ChatSubsystem_h_29_INCLASS_NO_PURE_DECLS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Subsystem_ChatSubsystem_h_29_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -57,7 +57,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CX_API UClass* StaticClass<class UChatSubsystem>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Project_UnrealEngine_CX_Source_CX_Subsystem_ChatSubsystem_h
+#define CURRENT_FILE_ID FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Subsystem_ChatSubsystem_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

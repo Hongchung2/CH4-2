@@ -6,6 +6,7 @@
 #include "C:/Project/UnrealEngine/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT/CXGameMode.gen.cpp"
 #include "C:/Project/UnrealEngine/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT/CXGameState.gen.cpp"
 #include "C:/Project/UnrealEngine/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT/CXItemSpawner.gen.cpp"
+#include "C:/Project/UnrealEngine/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT/CXLandMine.gen.cpp"
 #include "C:/Project/UnrealEngine/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT/CXOffroadCar.gen.cpp"
 #include "C:/Project/UnrealEngine/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT/CXOffroadWheelFront.gen.cpp"
 #include "C:/Project/UnrealEngine/CX/Intermediate/Build/Win64/UnrealEditor/Inc/CX/UHT/CXOffroadWheelRear.gen.cpp"

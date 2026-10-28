@@ -228,14 +228,14 @@ UCXUI::~UCXUI() {}
 // End Class UCXUI
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_CXUI_h_Statics
+struct Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXUI_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UCXUI, UCXUI::StaticClass, TEXT("UCXUI"), &Z_Registration_Info_UClass_UCXUI, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UCXUI), 3603526856U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_CXUI_h_1196254316(TEXT("/Script/CX"),
-	Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_CXUI_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_CXUI_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXUI_h_1196254316(TEXT("/Script/CX"),
+	Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXUI_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXUI_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

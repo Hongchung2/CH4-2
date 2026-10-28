@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Project\\UnrealEngine\\CX\\Source\\CX\\CX.Build.cs",
-		"C:\\Project\\UnrealEngine\\CX\\Source\\CX.Target.cs",
-		"C:\\Project\\UnrealEngine\\CX\\Source\\CXEditor.Target.cs"
+		"C:\\Project\\UnrealEngine\\CH4-2\\CX\\Source\\CX\\CX.Build.cs",
+		"C:\\Project\\UnrealEngine\\CH4-2\\CX\\Source\\CX.Target.cs",
+		"C:\\Project\\UnrealEngine\\CH4-2\\CX\\Source\\CXEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }

@@ -1,5 +1,4 @@
 /I "."
-/I "C:\Project\UnrealEngine\CX\Source\CX\Private"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT"
 /I "Runtime\Engine\Classes"
 /I "Runtime\Engine\Public"
@@ -289,7 +288,6 @@
 /I "C:\Project\UnrealEngine\CX\Intermediate\Build\Win64\UnrealEditor\Inc\CX\UHT"
 /I "C:\Project\UnrealEngine\CX\Source\CX"
 /I "C:\Project\UnrealEngine\CX\Source"
-/I "C:\Project\UnrealEngine\CX\Source\CX\Public"
 /I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT"
 /I "..\Plugins\EnhancedInput\Source"
 /I "..\Plugins\EnhancedInput\Source\EnhancedInput\Public"

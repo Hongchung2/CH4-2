@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CX_CXPawn_generated_h
 
-#define FID_Project_UnrealEngine_CX_Source_CX_CXPawn_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPawn_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual bool ServerRPCSpawnLandMine_Validate(); \
 	virtual void ServerRPCSpawnLandMine_Implementation(); \
 	virtual void CTSAttack_Implementation(); \
@@ -24,8 +24,8 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	DECLARE_FUNCTION(execMulticastHitEffect);
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_CXPawn_h_29_CALLBACK_WRAPPERS
-#define FID_Project_UnrealEngine_CX_Source_CX_CXPawn_h_29_INCLASS_NO_PURE_DECLS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPawn_h_29_CALLBACK_WRAPPERS
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPawn_h_29_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACXPawn(); \
 	friend struct Z_Construct_UClass_ACXPawn_Statics; \
@@ -40,7 +40,7 @@ public: \
 	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_CXPawn_h_29_ENHANCED_CONSTRUCTORS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPawn_h_29_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ACXPawn(ACXPawn&&); \
@@ -52,14 +52,14 @@ public: \
 	NO_API virtual ~ACXPawn();
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_CXPawn_h_26_PROLOG
-#define FID_Project_UnrealEngine_CX_Source_CX_CXPawn_h_29_GENERATED_BODY \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPawn_h_26_PROLOG
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPawn_h_29_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Project_UnrealEngine_CX_Source_CX_CXPawn_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Project_UnrealEngine_CX_Source_CX_CXPawn_h_29_CALLBACK_WRAPPERS \
-	FID_Project_UnrealEngine_CX_Source_CX_CXPawn_h_29_INCLASS_NO_PURE_DECLS \
-	FID_Project_UnrealEngine_CX_Source_CX_CXPawn_h_29_ENHANCED_CONSTRUCTORS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPawn_h_29_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPawn_h_29_CALLBACK_WRAPPERS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPawn_h_29_INCLASS_NO_PURE_DECLS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPawn_h_29_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -67,7 +67,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CX_API UClass* StaticClass<class ACXPawn>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Project_UnrealEngine_CX_Source_CX_CXPawn_h
+#define CURRENT_FILE_ID FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPawn_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

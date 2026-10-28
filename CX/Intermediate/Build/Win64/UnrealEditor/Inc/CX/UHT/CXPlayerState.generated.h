@@ -14,14 +14,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CX_CXPlayerState_generated_h
 
-#define FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void CTSAddCoin_Implementation(int32 const& Amount); \
 	DECLARE_FUNCTION(execGetPlayerStateInfo); \
 	DECLARE_FUNCTION(execCTSAddCoin);
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h_15_CALLBACK_WRAPPERS
-#define FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h_15_CALLBACK_WRAPPERS
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACXPlayerState(); \
 	friend struct Z_Construct_UClass_ACXPlayerState_Statics; \
@@ -37,7 +37,7 @@ public: \
 	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ACXPlayerState(ACXPlayerState&&); \
@@ -49,14 +49,14 @@ public: \
 	NO_API virtual ~ACXPlayerState();
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h_12_PROLOG
-#define FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h_15_GENERATED_BODY \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h_12_PROLOG
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h_15_CALLBACK_WRAPPERS \
-	FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h_15_INCLASS_NO_PURE_DECLS \
-	FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h_15_CALLBACK_WRAPPERS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -64,7 +64,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CX_API UClass* StaticClass<class ACXPlayerState>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h
+#define CURRENT_FILE_ID FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

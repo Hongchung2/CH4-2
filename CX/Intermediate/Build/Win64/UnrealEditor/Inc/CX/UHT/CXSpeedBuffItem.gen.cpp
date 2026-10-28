@@ -254,14 +254,14 @@ ACXSpeedBuffItem::~ACXSpeedBuffItem() {}
 // End Class ACXSpeedBuffItem
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_Item_CXSpeedBuffItem_h_Statics
+struct Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Item_CXSpeedBuffItem_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ACXSpeedBuffItem, ACXSpeedBuffItem::StaticClass, TEXT("ACXSpeedBuffItem"), &Z_Registration_Info_UClass_ACXSpeedBuffItem, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACXSpeedBuffItem), 860798925U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_Item_CXSpeedBuffItem_h_564733815(TEXT("/Script/CX"),
-	Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_Item_CXSpeedBuffItem_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_Item_CXSpeedBuffItem_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Item_CXSpeedBuffItem_h_564733815(TEXT("/Script/CX"),
+	Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Item_CXSpeedBuffItem_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Item_CXSpeedBuffItem_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

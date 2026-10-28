@@ -231,14 +231,14 @@ ACXPlayerState::~ACXPlayerState() {}
 // End Class ACXPlayerState
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h_Statics
+struct Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ACXPlayerState, ACXPlayerState::StaticClass, TEXT("ACXPlayerState"), &Z_Registration_Info_UClass_ACXPlayerState, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACXPlayerState), 592659639U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h_804339282(TEXT("/Script/CX"),
-	Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_PlayerState_CXPlayerState_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h_804339282(TEXT("/Script/CX"),
+	Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_PlayerState_CXPlayerState_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

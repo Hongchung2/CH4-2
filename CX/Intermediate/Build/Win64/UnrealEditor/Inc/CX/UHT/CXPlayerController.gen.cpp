@@ -325,14 +325,14 @@ ACXPlayerController::~ACXPlayerController() {}
 // End Class ACXPlayerController
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h_Statics
+struct Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ACXPlayerController, ACXPlayerController::StaticClass, TEXT("ACXPlayerController"), &Z_Registration_Info_UClass_ACXPlayerController, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACXPlayerController), 1717246764U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h_3779733805(TEXT("/Script/CX"),
-	Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h_3779733805(TEXT("/Script/CX"),
+	Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

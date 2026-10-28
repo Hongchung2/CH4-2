@@ -14,11 +14,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CX_ChatUI_generated_h
 
-#define FID_Project_UnrealEngine_CX_Source_CX_ChatUI_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_ChatUI_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnChatInputTextCommitted);
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_ChatUI_h_14_INCLASS_NO_PURE_DECLS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_ChatUI_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUChatUI(); \
 	friend struct Z_Construct_UClass_UChatUI_Statics; \
@@ -27,7 +27,7 @@ public: \
 	DECLARE_SERIALIZER(UChatUI)
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_ChatUI_h_14_ENHANCED_CONSTRUCTORS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_ChatUI_h_14_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UChatUI(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
@@ -41,13 +41,13 @@ public: \
 	NO_API virtual ~UChatUI();
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_ChatUI_h_11_PROLOG
-#define FID_Project_UnrealEngine_CX_Source_CX_ChatUI_h_14_GENERATED_BODY \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_ChatUI_h_11_PROLOG
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_ChatUI_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Project_UnrealEngine_CX_Source_CX_ChatUI_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Project_UnrealEngine_CX_Source_CX_ChatUI_h_14_INCLASS_NO_PURE_DECLS \
-	FID_Project_UnrealEngine_CX_Source_CX_ChatUI_h_14_ENHANCED_CONSTRUCTORS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_ChatUI_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_ChatUI_h_14_INCLASS_NO_PURE_DECLS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_ChatUI_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -55,7 +55,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CX_API UClass* StaticClass<class UChatUI>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Project_UnrealEngine_CX_Source_CX_ChatUI_h
+#define CURRENT_FILE_ID FID_Project_UnrealEngine_CH4_2_CX_Source_CX_ChatUI_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

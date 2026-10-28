@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CX_CXSportsCar_generated_h
 
-#define FID_Project_UnrealEngine_CX_Source_CX_CXSportsCar_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXSportsCar_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACXSportsCar(); \
 	friend struct Z_Construct_UClass_ACXSportsCar_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(ACXSportsCar)
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_CXSportsCar_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXSportsCar_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ACXSportsCar(ACXSportsCar&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~ACXSportsCar();
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_CXSportsCar_h_12_PROLOG
-#define FID_Project_UnrealEngine_CX_Source_CX_CXSportsCar_h_15_GENERATED_BODY \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXSportsCar_h_12_PROLOG
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXSportsCar_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Project_UnrealEngine_CX_Source_CX_CXSportsCar_h_15_INCLASS_NO_PURE_DECLS \
-	FID_Project_UnrealEngine_CX_Source_CX_CXSportsCar_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXSportsCar_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXSportsCar_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CX_API UClass* StaticClass<class ACXSportsCar>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Project_UnrealEngine_CX_Source_CX_CXSportsCar_h
+#define CURRENT_FILE_ID FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXSportsCar_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

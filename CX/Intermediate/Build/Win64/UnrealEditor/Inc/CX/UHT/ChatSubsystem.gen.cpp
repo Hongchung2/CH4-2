@@ -144,7 +144,7 @@ UChatSubsystem::~UChatSubsystem() {}
 // End Class UChatSubsystem
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_Subsystem_ChatSubsystem_h_Statics
+struct Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Subsystem_ChatSubsystem_h_Statics
 {
 	static constexpr FStructRegisterCompiledInInfo ScriptStructInfo[] = {
 		{ FChatData::StaticStruct, Z_Construct_UScriptStruct_FChatData_Statics::NewStructOps, TEXT("ChatData"), &Z_Registration_Info_UScriptStruct_ChatData, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FChatData), 3494281727U) },
@@ -153,9 +153,9 @@ struct Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_Subsystem_Cha
 		{ Z_Construct_UClass_UChatSubsystem, UChatSubsystem::StaticClass, TEXT("UChatSubsystem"), &Z_Registration_Info_UClass_UChatSubsystem, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UChatSubsystem), 2391265318U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_Subsystem_ChatSubsystem_h_259961589(TEXT("/Script/CX"),
-	Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_Subsystem_ChatSubsystem_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_Subsystem_ChatSubsystem_h_Statics::ClassInfo),
-	Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_Subsystem_ChatSubsystem_h_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project_UnrealEngine_CX_Source_CX_Subsystem_ChatSubsystem_h_Statics::ScriptStructInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Subsystem_ChatSubsystem_h_259961589(TEXT("/Script/CX"),
+	Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Subsystem_ChatSubsystem_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Subsystem_ChatSubsystem_h_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Subsystem_ChatSubsystem_h_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Project_UnrealEngine_CH4_2_CX_Source_CX_Subsystem_ChatSubsystem_h_Statics::ScriptStructInfo),
 	nullptr, 0);
 // End Registration
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

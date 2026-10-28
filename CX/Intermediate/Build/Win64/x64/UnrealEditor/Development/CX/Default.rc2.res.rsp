@@ -84,5 +84,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="Vehicle Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=CX
-/fo "C:\Project\UnrealEngine\CX\Intermediate\Build\Win64\x64\UnrealEditor\Development\CX\Default.rc2.res"
+/fo "C:\Project\UnrealEngine\CH4-2\CX\Intermediate\Build\Win64\x64\UnrealEditor\Development\CX\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

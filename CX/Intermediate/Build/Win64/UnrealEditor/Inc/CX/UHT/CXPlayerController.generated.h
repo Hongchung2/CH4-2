@@ -15,7 +15,7 @@ struct FChatData;
 #endif
 #define CX_CXPlayerController_generated_h
 
-#define FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	virtual void STCChatMessage_Implementation(const FString& Sender, const FString& Message); \
 	virtual void CTSChatMessage_Implementation(const FString& Message); \
 	virtual void STCChatLog_Implementation(TArray<FChatData> const& ChatLog); \
@@ -24,8 +24,8 @@ struct FChatData;
 	DECLARE_FUNCTION(execSTCChatLog);
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h_15_CALLBACK_WRAPPERS
-#define FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h_15_CALLBACK_WRAPPERS
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesACXPlayerController(); \
 	friend struct Z_Construct_UClass_ACXPlayerController_Statics; \
@@ -40,7 +40,7 @@ public: \
 	NO_API virtual void ValidateGeneratedRepEnums(const TArray<struct FRepRecord>& ClassReps) const override;
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h_15_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ACXPlayerController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
@@ -54,14 +54,14 @@ public: \
 	NO_API virtual ~ACXPlayerController();
 
 
-#define FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h_12_PROLOG
-#define FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h_15_GENERATED_BODY \
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h_12_PROLOG
+#define FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h_15_CALLBACK_WRAPPERS \
-	FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h_15_INCLASS_NO_PURE_DECLS \
-	FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h_15_CALLBACK_WRAPPERS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -69,7 +69,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CX_API UClass* StaticClass<class ACXPlayerController>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Project_UnrealEngine_CX_Source_CX_CXPlayerController_h
+#define CURRENT_FILE_ID FID_Project_UnrealEngine_CH4_2_CX_Source_CX_CXPlayerController_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
