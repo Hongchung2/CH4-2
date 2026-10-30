@@ -43,8 +43,8 @@
 			"CXCoinItem.cpp.obj",
 			"CXItemSpawner.cpp.obj",
 			"CXSpeedBuffItem.h.cpp.obj",
-			"CXPlayerState.cpp.obj",
-			"ChatSubsystem.cpp.obj"
+			"ChatSubsystem.cpp.obj",
+			"CXPlayerState.cpp.obj"
 		]
 	}
 }

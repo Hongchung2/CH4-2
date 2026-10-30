@@ -40,5 +40,4 @@
 #include "C:/Project/UnrealEngine/CH4-2/CX/Source/CX/Item/CXCoinItem.cpp"
 #include "C:/Project/UnrealEngine/CH4-2/CX/Source/CX/Item/CXItemSpawner.cpp"
 #include "C:/Project/UnrealEngine/CH4-2/CX/Source/CX/Item/CXSpeedBuffItem.h.cpp"
-#include "C:/Project/UnrealEngine/CH4-2/CX/Source/CX/PlayerState/CXPlayerState.cpp"
 #include "C:/Project/UnrealEngine/CH4-2/CX/Source/CX/Subsystem/ChatSubsystem.cpp"
